@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1664547186 source:c:\users\aula11\desktop\struct archivos etc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"vacuna.h"
+
+1664547048 source:c:\users\aula11\desktop\struct archivos etc\vacuna.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"vacuna.h"
+
+1664547048 c:\users\aula11\desktop\struct archivos etc\vacuna.h
+
+1664547186 source:c:\users\manu\desktop\fq\programacion\ejercicios c\struct archivos tda (vacunas)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"vacuna.h"
+
+1664547048 c:\users\manu\desktop\fq\programacion\ejercicios c\struct archivos tda (vacunas)\vacuna.h
+
+1665179749 source:c:\users\manu\desktop\fq\programacion\ejercicios c\struct archivos etc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"vacuna.h"
+	"ciudadano.h"
+
+1665179739 c:\users\manu\desktop\fq\programacion\ejercicios c\struct archivos etc\vacuna.h
+
+1665179547 source:c:\users\manu\desktop\fq\programacion\ejercicios c\struct archivos etc\ciudadano.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"ciudadano.h"
+	"vacuna.h"
+
+1665179824 source:c:\users\manu\desktop\fq\programacion\ejercicios c\struct archivos etc\vacuna.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"vacuna.h"
+
+1665179739 c:\users\manu\desktop\fq\programacion\ejercicios c\struct archivos etc\ciudadano.h
+
